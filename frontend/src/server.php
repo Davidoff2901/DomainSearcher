@@ -2,8 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: *");
 
-// $api = 'https://api.duoservers.com/?auth_username=store234050&auth_password=David_12902&';
-$api = 'http://vjs.payments.rpadmin.info/api/';
+$api = 'your url here';
 
 $defaultApiParams = [
     'auth_username' => 'test',
